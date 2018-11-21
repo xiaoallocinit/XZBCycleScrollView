@@ -1,0 +1,6 @@
+module Pods_XZBCycleScrollView {
+  umbrella header "Pods-XZBCycleScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
